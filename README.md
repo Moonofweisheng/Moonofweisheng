@@ -7,6 +7,6 @@
 
  [![我的 GitHub stats](https://github-readme-stats.vercel.app/api?username=Moonofweisheng&show_icons=true&locale=cn)](https://github.com/Moonofweisheng)
  
-[![我的技能树](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonofweisheng&layout=compact&locale=cn)](https://github.com/Moonofweisheng)
+[![我的技能树](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonofweisheng&layout=pie&locale=cn)](https://github.com/Moonofweisheng)
 
 
