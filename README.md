@@ -48,5 +48,6 @@ Here are some of the projects I've worked on:
 
 - Email: [1780903673@qq.com](mailto:1780903673@qq.com)
 - 微信公众号: 阿鱼聊前端
+- 博客: [不如摸鱼去](https://blog.wot-ui.cn/)
 
 Thank you for visiting my profile! Have a great day! 😊
